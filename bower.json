@@ -1,0 +1,23 @@
+{
+  "name": "pkcs7",
+  "version": "0.2.3",
+  "homepage": "https://github.com/TylerGarlick/pkcs7",
+  "bugs": "https://github.com/brightcove/pkcs7/issues",
+  "main": "dist/pkcs7.js",
+  "files": ["dist"],
+  "author": {
+    "name": "Brightcove"
+  },
+  "moduleType": [
+    "amd"
+  ],
+  "license": "Apache2",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
